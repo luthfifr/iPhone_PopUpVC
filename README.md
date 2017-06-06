@@ -1,5 +1,5 @@
 # iPhone_PopUpVC
-In this repo I show you the trick to make a Pop-ip VC in iPhone, where as you might know, segue Present as Popover does not work the same as in iPad.
+In this repo I show you the trick to make a Pop-up VC in iPhone, as you might know, in iPhone segue Present as Popover does not work the same as in iPad.
 
 
 ## Output Preview
